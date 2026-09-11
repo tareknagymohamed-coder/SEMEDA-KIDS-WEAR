@@ -4,7 +4,7 @@ Semeda Kids Wear is a kidswear brand producing comfortable, stylish, and high-qu
 <tr>
 <td bgcolor="#0d1117">
 
-# 🚀 Someida Kids Wear
+# 🚀 Semeda Kids Wear
 
 <p align="center">
 
@@ -18,7 +18,7 @@ Semeda Kids Wear is a kidswear brand producing comfortable, stylish, and high-qu
 
 ## 🧠 Project Overview
 
-A marketing project for **Someida Kids Wear**, a children's clothing brand focused on **quality, comfort, and modern designs**.
+A marketing project for **Semeda Kids Wear**, a children's clothing brand focused on **quality, comfort, and modern designs**.
 
 The products are proudly manufactured in the brand's **own factories**, allowing Someida to maintain control over:
 
@@ -113,7 +113,7 @@ The project focuses on developing creative marketing concepts, advertising campa
 
 ## 💡 The Big Idea
 
-> ### **Someida isn't just selling children's clothes.**
+> ### **Semeda isn't just selling children's clothes.**
 >
 > It's selling **comfort, quality, and confidence in what parents choose for their children.**
 
