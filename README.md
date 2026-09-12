@@ -34,9 +34,9 @@ The project focuses on developing creative marketing concepts, advertising campa
 |---|
 | **Mohamed Tarek Nagy Abdelazim** |
 | **Omar Amir Mohamed Elhanafy** |
-| **Omar Mohamed Fathy** |
-| **Abdelrahman Gamal** |
-| **Badr Hany** |
+| **Omar Mohamed Fathy hussein** |
+| **Abdelrahman Gamal fouad abdelrehem** |
+| **Badr Hany mansof elnasry** |
 
 ### 🎓 Instructor
 
