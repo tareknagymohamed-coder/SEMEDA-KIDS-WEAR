@@ -20,11 +20,18 @@ Semeda Kids Wear is a kidswear brand producing comfortable, stylish, and high-qu
 
 A marketing project for **Semeda Kids Wear**, a children's clothing brand focused on **quality, comfort, and modern designs**.
 
-The products are proudly manufactured in the brand's **own factories**, allowing Someida to maintain control over:
+The products are proudly manufactured in the brand's **own factories**, allowing Semeda to maintain control over:
 
 `🧵 Fabric Selection` • `🏭 Production` • `✨ Quality`
 
 The project focuses on developing creative marketing concepts, advertising campaigns, and social media content that communicate the brand's value and connect with **parents**.
+
+---
+
+## 🎨 Brand Assets & Guidelines
+
+📁 **Visual Identity Presentation:**  
+👉 [**View Semeda Visual Identity (Google Drive)**](https://drive.google.com/file/d/1TeYYdHAzOVO7gkdk2hopir2ZmrLwX2kd/view?usp=sharing)
 
 ---
 
@@ -34,9 +41,9 @@ The project focuses on developing creative marketing concepts, advertising campa
 |---|
 | **Mohamed Tarek Nagy Abdelazim** |
 | **Omar Amir Mohamed Elhanafy** |
-| **Omar Mohamed Fathy hussein** |
-| **Abdelrahman Gamal fouad abdelrehem** |
-| **Badr Hany mansof elnasry** |
+| **Omar Mohamed Fathy Hussein** |
+| **Abdelrahman Gamal Fouad Abdelrehem** |
+| **Badr Hany Mansof Elnasry** |
 
 ### 🎓 Instructor
 
@@ -46,7 +53,7 @@ The project focuses on developing creative marketing concepts, advertising campa
 
 ## 🎯 Project Objectives
 
-> **Our Mission:** Build a stronger and more recognizable digital presence for Someida.
+> **Our Mission:** Build a stronger and more recognizable digital presence for Semeda.
 
 - 🏷️ Strengthen the brand identity
 - 🧵 Highlight product quality
