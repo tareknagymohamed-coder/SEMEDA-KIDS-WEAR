@@ -31,7 +31,7 @@ The project focuses on developing creative marketing concepts, advertising campa
 ## 🎨 Brand Assets & Guidelines
 
 📁 **Visual Identity Presentation:**  
-👉 [**View Semeda Visual Identity (Google Drive)**](https://drive.google.com/file/d/1TeYYdHAzOVO7gkdk2hopir2ZmrLwX2kd/view?usp=sharing)
+👉 [**View Semeda Visual Identity (Google Drive)**](https://drive.google.com/file/d/1TeYYdHAzOVO7gkdk2hopir2ZmrLwX2kd/view?usp=drive_link)
 
 ---
 
